@@ -21,6 +21,6 @@ Vous pouvez aussi créer une lisaison avec un cadre déjà existant (sur la mêm
 3. Cliquez sur le deuxième cadre.
 4. Le text coule d'un cadre à l'autre.
 
-Pour enlever une liaison, utilisez l'outil de "déliaison" placé juste après celui de liaison et suivez la même procédure, mais en cliquant d'abord sur le deuxième cadre, puis sur le premier.
+Pour enlever une liaison, utilisez l'outil de "déliaison" ![](text-chains/unlink.png) placé juste après celui de liaison et suivez la même procédure, mais en cliquant d'abord sur le deuxième cadre, puis sur le premier.
 
 Une petite astuce: pour lier les cadre, vous pouvez aussi cliquer sur la marque de débordement, sans activer au prèalable l'outil de liaison.
