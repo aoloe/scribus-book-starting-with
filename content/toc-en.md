@@ -1,4 +1,4 @@
-# Table of contentsh
+# Table of contents
 
 1. [The basics](basics-en.md)
 2. [The Windows](windows-en.md)
