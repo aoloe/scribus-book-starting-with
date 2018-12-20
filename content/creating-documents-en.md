@@ -7,8 +7,6 @@ The first window you see in Scribus is the _New document_ window. It lets you de
 - the placement in the final assembly,
 - and eventually the number of page.
 
-creating-documents-en.md
-
 ![](creating-documents/new-document-fr.png)
 
 After you've crated the document, the same settings can be modified in `File > Document Setup`.
