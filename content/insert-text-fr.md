@@ -13,5 +13,3 @@ L'insertion de texte est essentiel dans la plupart des publications.  Comme les 
 Pour ajouter du texte, double-cliquez dans le cadre et écrivez. Le paramètrage de la typographie se fera dans l'onglet Texte de la fenêtre Propriétés. Nous mentionnerons dans quelques pages l'éditeur interne qui est d'un grand intérêt pour accélérer le rythme de travail en début de mise en page.
 
 L'outil Lier les cadres, mentionnés page suivante et d'un intérêt particulier pour les documents de texte continu (articles, roman...).
-
-Les cadres de texte (comme les cadres images) sont rectangulaires par défaut. Pour changer leur forme, vous pouvez utiliser le réglages Formes, de l'onglet Forme de la fenêtre Propriétés.
