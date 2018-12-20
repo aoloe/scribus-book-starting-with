@@ -4,11 +4,11 @@ Les outils sont les éléments qui, en général, permettent d'ajouter des chose
 
 ![The Scribus Toolbar](tools//toolbar-fr.png)
 
-Pour du texte, l'outil cadre de Texte (raccourci T ou ![](tools//tool-text.png))
+Pour du texte, l'outil _cadre de Texte_ (raccourci T ou ![](tools//tool-text.png))
 
-Pour des images, l'outil cadre d'image (raccourci I ou ![](tools//tool-image.png)).
+Pour des images, l'outil _cadre d'image_ (raccourci I ou ![](tools//tool-image.png)).
 
-Pour des formes géométriques, l'outil polygone ou les formes prédéterminées.
+Pour des formes géométriques, l'outil _polygone_ ou les _formes_ prédéterminées.
 
 A noter que les outils cadres permettent de spécifier une zone dans laquelle un texte sera écrit par la suite ou importé. Lors de l'utilisation des outils, ni texte ni image n'est inséré.
 
