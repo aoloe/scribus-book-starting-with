@@ -11,10 +11,15 @@ De nombreuses fonctions sont accessibles par des raccourcis clavier.  Ces raccou
 
 Lorsque vous utilisez le raccourci `T`, prenez garde à ne pas être en mode écriture dans un cadre car dans ce cas, Scribus écrira la lettre `T` dans le cadre actif. Le plus sûr est d’appuyer au préalable sur la touche `Échap`.
 
-La fenêtre des `Propriétés` est réellement un des poumons de Scribus.  C’est ici que l’on trouvera les options essentielles et que l’on passera une bonne parties de notre temps.
+La fenêtre des `Propriétés` est réellement un des poumons de Scribus.  C’est ici que l’on trouvera les options essentielles et que l’on passera une bonne parties de notre temps.  
+On peut d'ores et déjà remarquer qu'elle est divisée en plusieurs parties thématiques. Certaines sont activiées par ce qu'elles sont applicables à notre contexte et d'autres non. La partie actuellement activée  dans l'image ci-contre sert au positionnement des éléments.
 
 ![](windows/properties-yyz-fr.png)
 
 Les différents onglets de la fenêtre `Propriétés` donnent accès à la majorité des réglages sur le contenu.
 
 ![](windows/properties-colors-fr.png)
+
+Pour les réglages typographiques, Scribus a une palette séparée: la palette des _Propriétés de texte_.
+
+![](windows/properties-text-fr.png)
