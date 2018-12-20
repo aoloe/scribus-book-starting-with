@@ -1,4 +1,4 @@
-# 3. Création et propriétés de document
+# Création et propriétés de document
 
 La première fenêtre que l'on voit dans Scribus est la fenêtre de Nouveau document. Elle sert à définir les caractèristiques de notre mise en page en particulier :
 - le format de la page,

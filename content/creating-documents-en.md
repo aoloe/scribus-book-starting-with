@@ -1,4 +1,4 @@
-# 3. Creating a document
+# Creating a document
 
 The first window you see in Scribus is the _New document_ window. It lets you define the characteristics of the layout like:
 
@@ -15,7 +15,7 @@ After you've crated the document, the same settings can be modified in `File > D
 
 The layout is the least known feature. It defines if the document will consist of single pages (reports, posters...) or facing pages, as for books, catalogs or magazines.
 
-All the settings in this window, can be further changed during your work. But the later modifications may require additional work, or even a rework of large parts of the layout. It is therefore recommended to start to know from the beginning what type of document you want to finally produce.
+All the settings in this window, can be further changed during your work. But the later modifications may require additional work, or even a rework of large parts of the layout. It is therefore recommended to know from the beginning what type of document you want to produce.
 
 ![](creating-documents/settings-automatic-save-fr.png)
 
