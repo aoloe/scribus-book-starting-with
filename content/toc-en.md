@@ -6,6 +6,6 @@
 4. [Les outils](tools-en.md)
 5. [Inerting text](insert-text-en.md)
 5. [Linking text frames](text-chain-en.md)
-6. [Les outils servant à modifier les cadres]()
+6. [Modify the frames](frames-modify-en.md)
 7. [Editeur interne]()
 8. [Outils de dessins et de présentation]()

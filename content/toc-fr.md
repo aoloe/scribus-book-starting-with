@@ -6,6 +6,6 @@
 4. [Les outils](tools-fr.md)
 5. [Insérer du texte](insert-text-fr.md)
 5. [Lier les cadres de texte](text-chain-fr.md)
-6. [Les outils servant à modifier les cadres]()
+6. [Modifier les cadres](frames-modify-fr.md)
 7. [Editeur interne]()
 8. [Outils de dessins et de présentation]()
