@@ -3,7 +3,7 @@
 The _Tools_ let you add things to a page.  
 The question is: what do you want to add? Here is the list of the main tools:
 
-![The Scribus Toolbar](tools/toolbar-en.png)
+![The Scribus Toolbar](tools/toolbar-fr.png)
 
 For text, the _Text frame_: tool (shortcut T or ![](tools//tool-text.png))
 
