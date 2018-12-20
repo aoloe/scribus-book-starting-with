@@ -8,16 +8,16 @@ Si vous souhaitez faire poursuivre le text dans un autre cadre, vous pouvez cré
 
 1. Cliquez sur l'outil flèche noire ![](text-chains/pointer.png).
 2. Cliquez sur le cadre contenant le texte.
-3. Cliquez sur l'icône de liaison de cadres ![](text-chains/link-text.png).
+3. Cliquez sur l'icône de liaison de cadres ![](text-chains/link.png).
 4. Créez un nouveau cadre de texte.
 5. Le text coule d'un cadre à l'autre.
 
-![](text-chains/text-overflow.png)
+![](text-chains/linked-text.png)
 
 Vous pouvez aussi créer une lisaison avec un cadre déjà existant (sur la même page ou sur la page suivante) mais il est alors essentiel que ce deuxième cadre ne contienne aucun texte:
 
 1. Activez le bloc contenant le texte ![](text-chains/pointer.png).
-2. Cliquez sur l'icône de liaison de bloc ![](text-chains/link-text.png).
+2. Cliquez sur l'icône de liaison de bloc ![](text-chains/link.png).
 3. Cliquez sur le deuxième cadre.
 4. Le text coule d'un cadre à l'autre.
 
