@@ -9,12 +9,16 @@ The main horizontal toolbar below the menus contains the tools for placing text,
 
 Many features can be reached through keyboard shortcuts. Some of the shortcuts are the same you know from other programs: `Ctrl+C` for copying, `Ctrl+S` for saving, or `Ctrl+Z` for undoing. Others are specific to Scribus: as an example  the `T` key activates the tool for creating a text frame.
 
-Of course, you cannot use the `T` shortcut, when you are in edit mode: in that case, Scribus will add the letter "T" to the current text. Using the `Esc` key makes you leave the edit mode and then the `T` key will activate the "Text Frame" tool.
+Of course, you cannot use the `T` shortcut, when you are in edit mode: in that case, Scribus will add the letter `T` to the current text. Using the `Esc` key makes you leave the edit mode and then the `T` key will activate the _Text Frame_ tool.
 
 The _Properties_ window is really at the heart of Scribus. You can find there the key features and you will work with it the most of your time.
 
 ![](windows/properties-xyz-en.png)
 
-The tabs in the "Properties" window provide most of the settings and the fine tuning for the content.
+The tabs in the _Properties_ window provide most of the settings and the fine tuning for the content.
 
 ![](windows/properties-colors-en.png)
+
+For the typographic settings, Scribus has a separate window, the _Text Properties_.
+
+![](windows/properties-text-fr.png)

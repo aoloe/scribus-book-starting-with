@@ -2,7 +2,7 @@
 
 Scribus possèdent deux principaux types de fenêtres :
 
-- Des fenêtres appelées modales qui s'affichent temporairement et bloquent toute autre action dans le logiciel tant que cette fenêtre n'est pas fermée. Par exemple, la fenêtre obtenue en utilisant `Fichier/Nouveau` est une fenêtre modale.
+- Des fenêtres appelées modales qui s'affichent temporairement et bloquent toute autre action dans le logiciel tant que cette fenêtre n'est pas fermée. Par exemple, la fenêtre obtenue en utilisant _Fichier/Nouveau_ est une fenêtre modale.
 - Des fenêtres permanentes qui permettent de modifier des éléments, de voir ces éléments s'appliquer même si cette fenêtre n'est pas fermée. Les fenêtres permanentes sont accessibles depuis le menu principal `Fenêtre`. `Propriétés` est une fenêtre permanente essentielle.
 
 Les outils qui permettent de positionner des textes ou des images dans une page sont placés sous le menu, à l'horizontale. Nous allons les voir en détail.
@@ -16,7 +16,7 @@ On peut d'ores et déjà remarquer qu'elle est divisée en plusieurs parties th�
 
 ![](windows/properties-yyz-fr.png)
 
-Les différents onglets de la fenêtre `Propriétés` donnent accès à la majorité des réglages sur le contenu.
+Les différents onglets de la fenêtre _Propriétés_ donnent accès à la majorité des réglages sur le contenu.
 
 ![](windows/properties-colors-fr.png)
 
