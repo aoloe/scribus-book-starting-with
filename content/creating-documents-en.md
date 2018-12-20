@@ -7,17 +7,19 @@ The first window you see in Scribus is the _New document_ window. It lets you de
 - the placement in the final assembly,
 - and eventually the number of page.
 
-![](new-document-fr.png)
+creating-documents-en.md
+
+![](creating-documents/new-document-fr.png)
 
 After you've crated the document, the same settings can be modified in `File > Document Setup`.
 
-![](settings-document-fr.png)
+![](creating-documents/settings-document-fr.png)
 
 The layout is the least known feature. It defines if the document will consist of single pages (reports, posters...) or facing pages, as for books, catalogs or magazines.
 
 All the settings in this window, can be further changed during your work. But the later modifications may require additional work, or even a rework of large parts of the layout. It is therefore recommended to start to know from the beginning what type of document you want to finally produce.
 
-![](settings-automatic-save-fr.png)
+![](creating-documents/settings-automatic-save-fr.png)
 
 If you want to modify any of these settings after the document has been created, you will have to use the _Document Settings_ window of the _File_ menu. It has many options that you can explore to feel the power of Scribus. The settings we are interested in are in the first set of options:it's the first item in the left panel, the Document Setup.
 
