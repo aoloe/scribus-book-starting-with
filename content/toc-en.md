@@ -4,7 +4,7 @@
 2. [The Windows](windows-en.md)
 3. [Creating a document](creating-documents-en.md)
 4. [Les outils](tools-en.md)
-5. [Insérer du texte]()
+5. [Insérer du texte](insert-text-en.md)
 6. [Les outils servant à modifier les cadres]()
 7. [Editeur interne]()
 8. [Outils de dessins et de présentation]()
