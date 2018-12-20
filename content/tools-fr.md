@@ -14,4 +14,4 @@ A noter que les outils cadres permettent de spécifier une zone dans laquelle un
 
 A noter aussi qu'il est impossible d'ajouter une image dans un cadre de texte ou du texte dans un cadre d'image. Si vous vous êtes trompés d'outil, vous pouvez utiliser le menu Objet>Convertir en et choisir cadre de texte ou cadre d'image pour permettre à ce cadre de contenir un autre type d'élément.
 
-Enfin, les polygones ne peuvent contenir ni texte, ni image. Si vous souhaitez placer du texte ou une image dans l'une de ces formes géométrique, vous devrez la convertir comme expliquer ci-dessus. Il s’agit d’un outil plus destiné à la création de formes décoratives ou d'arrières-plans.
+Enfin, les polygones ne peuvent contenir ni texte, ni image. Si vous souhaitez placer du texte ou une image dans l'une de ces formes géométrique, vous devrez la convertir comme expliqué ci-dessus. Il s’agit d’un outil plus destiné à la création de formes décoratives ou d'arrières-plans.
