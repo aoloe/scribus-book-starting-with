@@ -1,6 +1,6 @@
 # Modifier les cadres
 
-L'outil Rotation ![](frames-modify/oval-text-fr.png), permet de faire tourner un cadre sur lui-même.  
+L'outil Rotation ![](frames-modify/rotate.png), permet de faire tourner un cadre sur lui-même.  
 Remarquez que le contenu du cadre est tourné en même temps.
 
 ![](frames-modify/text-frame-rotate-fr.jpg)
