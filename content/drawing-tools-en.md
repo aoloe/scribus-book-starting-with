@@ -32,4 +32,4 @@ The _Arc_ ![](drawing-tools/draw-arc.png) can be used to draw circles or pie cha
 ![](drawing-tools/pie-settings.png)
 ![](drawing-tools/pie.png)
 
-The tools _Spiral_ ![](drawing-tools/draw-spiral.png) is often of limited use, but it exists because of the difficulty of making such a form when it is needed.
+The _Spiral_ tool ![](drawing-tools/draw-spiral.png) is often of limited use, but it exists because of the difficulty of making such a form when it is needed.

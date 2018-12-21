@@ -32,4 +32,4 @@ L'_Arc_ ![](drawing-tools/draw-arc.png) permet de dessiner des cercle ou des "ca
 ![](drawing-tools/pie-settings-fr.png)
 ![](drawing-tools/pie.png)
 
-Les outils _Spirale_ ![](drawing-tools/draw-spiral.png) trouve en général moins d'utilité, mais se justifie par la difficulté de réaliser une telle forme en cas de besoin.
+L'outil _Spirale_ ![](drawing-tools/draw-spiral.png) trouve en général moins d'utilité, mais se justifie par la difficulté de réaliser une telle forme en cas de besoin.
