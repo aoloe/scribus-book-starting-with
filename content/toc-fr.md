@@ -14,5 +14,6 @@
 
 8. [Esquisser le document](sketching-fr.md)
 9. [Créer un nouveau document](new-document-fr.md)
+10. [Définir les repères](define-guides-fr.md)
 
 ? [Editeur interne](story-editor-fr.md)

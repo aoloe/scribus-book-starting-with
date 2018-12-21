@@ -14,5 +14,6 @@
 
 8. [A draft sketch of your document](sketching-en.md)
 9. [Creating a new Document](new-document-en.md)
+10. [Define the guides](define-guides-en.md)
 
 ? [The Story editor](story-editor-en.md)
