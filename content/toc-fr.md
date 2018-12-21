@@ -1,6 +1,7 @@
 # Table des matières
 
 - [Les essentiels](basics-fr.md)
+
   2. [Les fenêtres](windows-fr.md)
   3. [Création et propriétés de document](creating-documents-fr.md)
   4. [Les outils](tools-fr.md)
