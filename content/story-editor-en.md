@@ -1,8 +1,8 @@
-# The Story Editor
+# Der Story Editor
 
 Writing text in a frame is very straightforward: double-click on a text frame and type. However, Scribus is a layout software. It is not really meant for writing text and does not excel in this particular: in some cases it can feel sluggish. In addition, it is not always useful to have access to the entire layout when working exclusively on the text.
 
-For those who want to write a long text in Scribus, without using a Word Processor, Scribus provides the Story Editor).
+For those who want to write a long text in Scribus, without using a Word Processor, Scribus provides the Story Editor.
 
 1. Draw the frame in which you want to write the text
 2. Click on the Story Editor icon ![](story-editor/story-editor.png).
