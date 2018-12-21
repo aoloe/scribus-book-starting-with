@@ -13,7 +13,7 @@ Pour modifier l'aspect de la ligne, il faudra utiliser l'onglet Filet de la fen�
 
 Si vous souhaitez tracer un trait bien droit, appuyez sur la touche Ctrl lors du tracé de la ligne.
 
-Le _Crayon_ ![](drawing-tools/draw-path.pngdrawing-tools/draw-freehand.png) permet de dessiner des formes libres qui suivent la souris.
+Le _Crayon_ ![](drawing-tools/draw-freehand.png) permet de dessiner des formes libres qui suivent la souris.
 
 L'outil _Bézier_ ![](drawing-tools/draw-path.png) permet de dessiner des formes géométriques libres comportant des courbes ou des droites, mais sa prise en main demande un peu de temps. C'est cependant un outil très performant qui ravi tous ceux qui le connaissent.
 
