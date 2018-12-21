@@ -16,6 +16,6 @@ Zurück zum Layout, werden die Änderungen angezeigt.
 
 So wird der Text im internen Editor dargestellt.
 
-![](Story-editor/story-editor-fr.png)
+![](story-editor/story-editor-fr.png)
 
 Beachte die nützlichen Statistikinformationen am unteren Rand des Fensters.
