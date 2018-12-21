@@ -10,9 +10,9 @@
 6. [Modify the frames](frames-modify-en.md)
 7. [Drawing tools](drawing-tools-en.md)
 
-[~~Hands On~~](hands-on-en.md)
+[Hands On](hands-on-en.md)
 
-8. [~~Sketching~~](sketching-en.md)
+8. [Make a draft sketch of your document](sketching-en.md)
 9. [~~Creating a new Document~~](new-document-en.md)
 
 ? [The Story editor](story-editor-en.md)

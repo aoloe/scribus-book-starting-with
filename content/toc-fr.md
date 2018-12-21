@@ -10,8 +10,9 @@
 6. [Modifier les cadres](frames-modify-fr.md)
 7. [Outils de dessin](drawing-tools-fr.md)
 
-[~~Prise en main~~](hands-on-fr.md)
+[Prise en main](hands-on-fr.md)
 
-8. [~~Créer un nouveau document~~](new-document-fr.md)
+8. [Esquisser le document](sketching-fr.md)
+9. [~~Créer un nouveau document~~](new-document-fr.md)
 
 ? [Editeur interne](story-editor-fr.md)
