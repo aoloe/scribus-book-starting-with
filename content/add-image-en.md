@@ -20,7 +20,7 @@ Then drag the small red square in the right lower corner of the frame, and resiz
 
 ![](add-image/wikimedia.jpg)
 
-It is not possible to drag the image directly from the web page. They need to be downloaded to your computer.
+> It is not possible to drag the image directly from the web page. They need to be downloaded to your computer.
 
 ![](add-image/resize-image-en.png)
 
