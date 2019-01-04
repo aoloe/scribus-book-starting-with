@@ -18,6 +18,7 @@
 11. [Se mettre à l'aise en zoomant](zoom-fr.md)
 12. [Écrire du texte](write-text-fr.md)
 13. [Ajouter une image](add-image-fr.md)
+14. [Importer du texte](importing-text-fr.md)
 
 ? [Editeur interne](story-editor-fr.md)
 

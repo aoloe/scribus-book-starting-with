@@ -18,6 +18,7 @@
 11. [Getting comfortable by zooming in and out](zoom-en.md)
 12. [Write some text](write-text-en.md)
 13. [Add an image](add-image-en.md)
+14. [Importing text](importing-text-en.md)
 
 ? [The Story editor](story-editor-en.md)
 
