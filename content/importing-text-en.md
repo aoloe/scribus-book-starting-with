@@ -18,6 +18,6 @@ Follow the instructions from the previous chapter [Write some text](write-text-e
 
 ![](importing-text/early-life-en.png)
 
-> The red crossed box in the lower right corner of the frame reveal that the is too long to fit in the frame. You can delete the overflowing text by right clicking on the frame and choosing _Content > Truncate_.
+> The red crossed box ![](importing-text/text-overflow.png) in the lower right corner of the frame reveal that the is too long to fit in the frame. You can delete the overflowing text by right clicking on the frame and choosing _Content > Truncate_.
 
 ![](importing-text/truncate-en.png)
