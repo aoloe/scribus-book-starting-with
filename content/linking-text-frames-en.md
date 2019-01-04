@@ -9,7 +9,7 @@ We add a dummy text to the text frame in the first column of the second page.
 
 In the lower right hand corner of the text frame you see a small red box with a cross ![](importing-text/text-overflow.png), indicating that the text is overflowing the frame.
 
-After, having created a text frame in the second column, make sure the first frame is selected, activate the _Link Text Frames_ tool ![](), then click the second frame. The text will flow from the first to the second frame.
+After, having created a text frame in the second column, make sure the first frame is selected, activate the _Link Text Frames_ tool ![](linking-text-frames/text-frame-link.png), then click the second frame. The text will flow from the first to the second frame.
 
 For the third frame, we will learn one more little trick: click on the overflow mark ![](importing-text/text-overflow.png) to activate the link tool and shift-click on the empty third column to create the new linked text frame.
 
