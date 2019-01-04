@@ -22,7 +22,9 @@ Double-click inside the frame to enter the "Edit Contents" mode. The _adjustment
 <tbody>
 <tr>
 <td rowspan=2>
+
 ![](write-text/type-text-fr.png)
+
 </td>
 <td>
 When you double-click to type into a frame, the handles of the frame disappear.
