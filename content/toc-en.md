@@ -19,6 +19,7 @@
 12. [Write some text](write-text-en.md)
 13. [Add an image](add-image-en.md)
 14. [Importing text](importing-text-en.md)
+15. [Linking text frames](linking-text-frames-en.md)
 
 ? [The Story editor](story-editor-en.md)
 

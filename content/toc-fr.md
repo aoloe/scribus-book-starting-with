@@ -19,6 +19,7 @@
 12. [Écrire du texte](write-text-fr.md)
 13. [Ajouter une image](add-image-fr.md)
 14. [Importer du texte](importing-text-fr.md)
+15. [Lier les cadres de texte](linking-text-frames-fr.md)
 
 ? [Editeur interne](story-editor-fr.md)
 
