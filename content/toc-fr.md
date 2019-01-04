@@ -17,6 +17,7 @@
 10. [Définir les repères](define-guides-fr.md)
 11. [Se mettre à l'aise en zoomant](zoom-fr.md)
 12. [Écrire du texte](write-text-fr.md)
+13. [Ajouter une image](add-image-fr.md)
 
 ? [Editeur interne](story-editor-fr.md)
 
