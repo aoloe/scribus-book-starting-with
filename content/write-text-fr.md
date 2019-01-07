@@ -4,9 +4,9 @@ Dans Scribus, on ne peut pas écrire directement sur la page : il faut tout d'ab
 
 ## Tracer un cadre
 
-Activez l'outil texte par le menu Insérer > Cadre de texte ou par l'icône Insérer un cadre de texte à côté de la flèche dans la barre d'outils, et dessinez un cadre de texte sur la page par un cliquerglisser.
+Activez l'outil texte par le menu Insérer > Cadre de texte ou par l'icône Insérer un cadre de texte à côté de la flèche dans la barre d'outils ![icon](tools/tool-select.png), et dessinez un cadre de texte sur la page par un cliquerglisser.
 
-![](draw-frame.png)
+![](write-text/draw-frame.png)
 
 Par un cliquer-glisser sur le petit carré rouge dans le coin inférieur à droite, vous pouvez redimensionner le cadre pour que sa taille soit suffisante pour contenir deux lignes avec le texte « Johannes Gutenberg ».
 
@@ -15,6 +15,25 @@ Par un cliquer-glisser sur le petit carré rouge dans le coin inférieur à droi
 Après avoir dessiné le cadre de texte, Scribus repasse automatiquement sur l'outil de sélection ![icon](tools/tool-select.png), qui vous permet de vous déplacer et de sélectionner.
 
 Double-cliquez sur le cadre, les carrés de redimensionnement disparaissent et vous pouvez taper le nom de Gutenberg dans le cadre :
+
+<table>
+<tbody>
+<tr>
+<td rowspan=2>
+
+![](write-text/type-text-fr.png)
+
+</td>
+<td>
+When you double-click to type into a frame, the handles of the frame disappear.
+</td>
+<tr>
+<td>
+The text formatting is done in the main tab of the Text Properties window.
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Formatage
 
