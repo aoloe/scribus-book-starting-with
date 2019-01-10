@@ -1,0 +1,30 @@
+content_dir: content/
+languages:
+  - en
+  - fr
+  - de
+title:
+  en: Starting with Scribus
+  fr: Introduction à Scribus
+  de: Einführung in Scribus
+toc: toc
+chapters:
+  - basics
+  - windows
+  - creating-documents
+  - tools
+  - insert-text
+  - text-chains
+  - frames-modify
+  - drawing-tools
+  - hands-on
+  - sketching
+  - new-document
+  - define-guides
+  - zoom
+  - write-text
+  - add-image
+  - importing-text
+  - linking-text-frames
+  - story-editor
+  - glossary
