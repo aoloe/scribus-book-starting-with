@@ -25,10 +25,10 @@
 
 [Gérer les images]()
 
-[Gérer le texte]()
+Gérer le texte
 
 ? [Editeur interne](story-editor-fr.md)
 
-[Enregistrer et exporter]()
+Enregistrer et exporter
 
 [Glossaire](glossary-fr.md)
