@@ -1,4 +1,4 @@
-# Der Story Editor
+# The Story Editor
 
 Writing text in a frame is very straightforward: double-click on a text frame and type. However, Scribus is a layout software. It is not really meant for writing text and does not excel in this particular: in some cases it can feel sluggish. In addition, it is not always useful to have access to the entire layout when working exclusively on the text.
 
