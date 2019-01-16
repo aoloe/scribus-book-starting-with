@@ -1,4 +1,4 @@
-2. Les fenêtres
+# Les fenêtres
 
 Scribus possèdent deux principaux types de fenêtres :
 
