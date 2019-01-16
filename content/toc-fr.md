@@ -20,7 +20,15 @@
 13. [Ajouter une image](add-image-fr.md)
 14. [Importer du texte](importing-text-fr.md)
 15. [Lier les cadres de texte](linking-text-frames-fr.md)
+16. [Contrôler le document et export en PDF](exporting-to-pdf-fr.md)
+17. [Rudiments de design](design-basics-fr.md)
+
+[Gérer les images]()
+
+[Gérer le texte]()
 
 ? [Editeur interne](story-editor-fr.md)
 
-[Glossary](glossary-fr.md)
+[Enregistrer et exporter]()
+
+[Glossaire](glossary-fr.md)
