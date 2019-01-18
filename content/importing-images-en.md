@@ -4,7 +4,7 @@ To insert (or rather import) images into a page, you first need to create image 
 
 Here's how to do it:
 
-1. Select the _Image frame_ tool (I, ![](tools/tool-image.png)) and draw a frame.
+1. Select the _Image frame_ tool ![](tools/tool-image.png) (I) and draw a frame.
 2. Click with the right mouse button on the frame and choose _Content > Get Image_ or use the _Ctrl+I_ shortcut.
 3. In your directories, choose the image to import and then confirm the choice with the _Ok_ button.
 4. If your image is too large, open the _Window > Properties_ window (F2), activate the _Image_ tab and check the buttons _To Frame Size_ and _Proportional_.
