@@ -18,8 +18,8 @@ Depending on your setup, it may be possible to import the image by dragging it d
 > For PDF and EPS you can use a frame or not, depending if you want them to be inserted as bitmap or as vector.
 > SVG files can only be imported as vector (and not in a frame).
 
-![](create-frame-fr.jpg)
+![](importing-images/create-frame-fr.jpg)
 
-![](get-image-fr.jpg)
+![](importing-images/get-image-fr.jpg)
 
-![](automatic-scale-fr.jpg)
+![](importing-images/automatic-scale-fr.jpg)
