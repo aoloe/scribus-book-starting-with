@@ -23,7 +23,9 @@
 16. [Contrôler le document et export en PDF](exporting-to-pdf-fr.md)
 17. [Rudiments de design](design-basics-fr.md)
 
-[Gérer les images]()
+[Gérer les images](managing-images-fr.md)
+
+18. [Importer des images](importing-images-fr.md)
 
 Gérer le texte
 

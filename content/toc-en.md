@@ -23,7 +23,9 @@
 16. [Checking the document and exporting to PDF](exporting-to-pdf-en.md)
 17. [Design basics](design-basics-en.md)
 
-Managing images
+[Managing images](managing-images-en.md)
+
+18. [Importing images](importing-images-en.md)
 
 Managing text
 
