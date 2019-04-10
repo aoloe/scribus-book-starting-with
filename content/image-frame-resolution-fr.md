@@ -16,7 +16,6 @@ Globalement, quelle que soit la méthode d'importation, il faudra être attentif
 
 Lorsque l'image a une résolution estimée trop faible par Scribus, un rectangle noir s'affiche dans l'angle inférieure droit. Seule la réduction de la taille de l'image dans Scribus peut augmenter cette réduction. Si cela n'est pas possible, il faudra l'augmenter dans un logiciel de traitement de photographie.
 
-Il peut y avoir un avantage à avoir un cadre plus grand :
+![](image-frame-resolution/bike-low-resolution.png)
 
-- gérer plus facilement la marge d'habillage ;
-- centrer l'image dans une zone qui à une bordure ou une ombre.
+Perte de qualité dûe à une résolution trop failble comme indiqué par le rectangle noir.

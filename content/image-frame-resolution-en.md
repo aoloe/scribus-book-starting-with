@@ -16,3 +16,7 @@ In all other cases, you will probably want to go for one of the two following so
 
 It's necessary to pay so much attention to the resolution because images can look good on screen but fail at meeting the required quality for print.  
 That's why Scribus adds a black rectangle in the lower right corner, when it detects a frame with a too low resolution. 
+
+![](image-frame-resolution/bike-low-resolution.png)
+
+Quality loss due to too low a resolution as indicated by the black rectangle.
