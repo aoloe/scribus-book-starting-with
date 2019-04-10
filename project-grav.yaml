@@ -32,5 +32,7 @@ chapters:
   - importing-images
   - image-size-and-gimp
   - image-preview
+  - image-frame-resolution
+  - image-frame-position
   - story-editor
   - glossary

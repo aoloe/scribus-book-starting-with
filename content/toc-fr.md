@@ -27,6 +27,9 @@
 
 18. [Importer des images](importing-images-fr.md)
 19. [Préparer l’image dans Gimp](image-size-and-gimp-fr.md)
+20. [La qualité des photos](image-preview-fr.md)
+21. [Images, taille du cadre et résolution](image-frame-resolution-fr.md)
+22. [Placement de l'Image dans le cadre](image-frame-position-fr.md)
 
 Gérer le texte
 
