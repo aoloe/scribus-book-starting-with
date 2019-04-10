@@ -26,6 +26,7 @@
 [Gérer les images](managing-images-fr.md)
 
 18. [Importer des images](importing-images-fr.md)
+19. [Préparer l’image dans Gimp](image-size-and-gimp-fr.md)
 
 Gérer le texte
 
