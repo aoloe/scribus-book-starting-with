@@ -27,6 +27,7 @@
 
 18. [Importing images](importing-images-en.md)
 19. [Preparing the image in Gimp](image-size-and-gimp-en.md)
+29. [The quality of photos](image-preview-en.md)
 
 Managing text
 
