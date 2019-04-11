@@ -1,6 +1,9 @@
 # Placement de l'Image dans le cadre
 
+La plupart du temps, vous voudrez que le cadre soit parfaitement adapté à l'image.
+
 ![](image-frame-position/bike-fit.png)
+![](image-frame-position/adjust-frame-to-image.png)
 
 Lorsque l'image est en mise à l'échelle libre il est possible de _déplacer_ l'image dans le cadre. Il faut juste un double clique sur l'image pour entrer dans le mode édition.
 
