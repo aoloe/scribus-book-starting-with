@@ -1,5 +1,7 @@
 # Table des matières
 
+0. [Introduction](introduction-fr.md)
+
 [Les essentiels](basics-fr.md)
 
 1. [Les fenêtres](windows-fr.md)
@@ -31,9 +33,11 @@
 21. [Images, taille du cadre et résolution](image-frame-resolution-fr.md)
 22. [Placement de l'Image dans le cadre](image-frame-position-fr.md)
 
-Gérer le texte
+[Gérer le texte](managing-text-fr.md)
 
-? [Editeur interne](story-editor-fr.md)
+23. [Modifier l'aspect du texte avec les propriétés](text-properties-fr.md)
+
+? [L'éditeur interne](story-editor-fr.md)
 
 Enregistrer et exporter
 

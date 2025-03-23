@@ -11,7 +11,7 @@ If you have already prepared the picture, with the right size and resolution, yo
 
 In all other cases, you will probably want to go for one of the two following solutions:
 
-- Go to the image properties, make sure that the box _At the dimensions of the image_ is checked, and decrease the size of the image frame until the resolution is big enough (144 dpi is the minimum for the professional printing).
+- Go to the image properties, make sure that the box _At the dimensions of the image_ is checked, and decrease the size of the image frame until the resolution is big enough (144 dpi is the minimum for professional printing).
 - Or use _Free Scaling_, with proportions kept (the _chain_ is active) and reduce the scale of the image; until you get size you need, while keeping an eye on the resolution. Finally, fit the frame to the content.
 
 It's necessary to pay so much attention to the resolution because images can look good on screen but fail at meeting the required quality for print.  

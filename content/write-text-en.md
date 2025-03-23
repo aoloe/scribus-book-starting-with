@@ -47,3 +47,29 @@ If the lines are slightly overlapping, you can increase the Line Spacing ❹. It
 
 You can exit the _Edit Contents_ mode by clicking on the canvas outside the frame or by pressing the _Esc_ key.
 Of course you can get back in the _Edit Contents_ mode by double-clicking inside the frame.
+
+## Getting text from files
+
+For longer texts (or text contributed by other persons) you can copy paste unformatted text from any external source.
+
+To simulate this situation, we use a browser to copy "Early Life" section of the the Wikipedia page about Johannes Gutenberg:  
+
+<https://en.wikipedia.org/wiki/Johannes_Gutenberg#Early_life>
+
+Open the Wikipedia page in your browser, select the content and copy it.
+
+Then, go back to Scribus and create a text frame in the Inside flap – the left column –, resizing it to fill the space between the left margin and the first guide.
+
+Like above, adjust the size of the tile of this text frame.
+
+![](importing-text/early-life-en.png)
+
+> The red crossed box ![](importing-text/text-overflow.png) in the lower right corner of the frame reveal that the is too long to fit in the frame. You can delete the overflowing text by right clicking on the frame and choosing _Content > Truncate_.
+
+![](importing-text/truncate-en.png)
+
+
+
+Scribus also provides filter for importing formatted text from files from few different types of documents (LibreOffice Write, Microsoft Word, HTML, RTF, ...).
+
+More on this in the [Import text] chapter.

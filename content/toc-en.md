@@ -1,5 +1,7 @@
 # Table of contents
 
+0. [Introduction](introduction-en.md)
+
 [The basics](basics-en.md)
 
 1. [The windows](windows-en.md)
@@ -18,20 +20,26 @@
 11. [Getting comfortable by zooming in and out](zoom-en.md)
 12. [Write some text](write-text-en.md)
 13. [Add an image](add-image-en.md)
-14. [Importing text](importing-text-en.md)
-15. [Linking text frames](linking-text-frames-en.md)
-16. [Checking the document and exporting to PDF](exporting-to-pdf-en.md)
-17. [Design basics](design-basics-en.md)
+14. [Linking text frames](linking-text-frames-en.md)
+15. [Checking the document and exporting to PDF](exporting-to-pdf-en.md)
+16. [Design basics](design-basics-en.md)
 
 [Managing images](managing-images-en.md)
 
-18. [Importing images](importing-images-en.md)
-19. [Preparing the image in Gimp](image-size-and-gimp-en.md)
-20. [The quality of photos](image-preview-en.md)
-21. [Image, frame size and resolution](image-frame-resolution-en.md)
-22. [Image position in the frame](image-frame-position-en.md)
+17. [Importing images](importing-images-en.md)
+18. [Preparing the image in Gimp](image-size-and-gimp-en.md)
+19. [The quality of photos](image-preview-en.md)
+20. [Image, frame size and resolution](image-frame-resolution-en.md)
+21. [Image position in the frame](image-frame-position-en.md)
 
-Managing text
+[Managing text](managing-text-fr.md)
+
+22. [Text formatting with the Text Palette](text-properties-en.md)
+23. [Importing text into a frame](importing-text-en.md)
+24. [Using text styles](text-styles-en.md)
+25. [Insert special characters](text-styles-en.md)
+26. [Lists](text-lists-en.md)
+27. [Tables and tabs](text-tables-and-tabs-en.md)
 
 ? [The Story editor](story-editor-en.md)
 
