@@ -1,23 +1,25 @@
-# Import some text
+# Importing text into a frame
 
 As you will learn in this manual, Scribus is good for layouts, but not best suited for composing text. On top of it, very often, you will be importing text written by others, or reusing text you have previewsly written in a word processor.
 
-To simulate this situation, we will use a browser to copy "Early Life" of the the Wikipedia page about Gutenberg:  
+We've already shortly covered [how to type text](insert-text-en.md) and [how to h in Scribus. But the better approach would be to import text from a word processor. LibreOffice is far more powerful than Scribus when it comes to writing and proofreading text (spellchecker, for example). Scribus, on the other hand, is much better at creating unique layouts. We suggest the following process:
 
-<https://en.wikipedia.org/wiki/Johannes_Gutenberg#Early_life>
+1. Write your text in LibreOffice Writer\*.  
+   If you don't have a document at hand, you can go to <https://en.wikipedia.org/wiki/Johannes_Gutenberg#Early_life>, select, copy the text and paste it into a new Writer document, and save it on your Documents folder.
+2. Use the styles to set the appearance of your headings (the window appears or disappears by pressing F11).
+3. Save the document in the LibreOffice .odt\* format.
+4. In Scribus, create a document by checking the Automatic text frame box in the File/New window.
+5. In Scribus click on the frame where the text is to be placed.
+6. Go to File > Import Text and select the .ODT document.
+7. Before pressing the "OK" button, Make sure that "Import Text Only" is unchecked.
+8. The frame now contains the text from your document and its appearance will more or less match what you did see in LibreOffice.
 
-Open a [text editor](glossary-en.md#text-editor) (or a word processor), crate a new file, paste the text from Wikipedia and Save the file as a "Text File"  in a new "Text" directory inside of your working directory.
+![](importing-text/dialog.png)
 
-Create a text frame in the Inside flap – the left column –, resizing to fill the space between the left margin and the guide.
+> * Of course, you can also use other Word Processors like Microsoft Word or Google Docs and save your document in the .docx format
 
-Select the frame, then from the menu, `File > Import > Get Text` import the text from the text file you just created.
+If your text does not fit in the frame, resize your frame or create new frames [that you link to the first one](text-chains-en.md).
 
-![](importing-text/get-text-en.png)
+If you need more pages, create them with "Page > Insert" and add linked text frames to them.
 
-Follow the instructions from the previous chapter [Write some text](write-text-en.md) to adjust the size of the title of this text frame.
-
-![](importing-text/early-life-en.png)
-
-> The red crossed box ![](importing-text/text-overflow.png) in the lower right corner of the frame reveal that the is too long to fit in the frame. You can delete the overflowing text by right clicking on the frame and choosing _Content > Truncate_.
-
-![](importing-text/truncate-en.png)
+> Modern Word Processors also offer tools for creating layouts: If you plan to 
